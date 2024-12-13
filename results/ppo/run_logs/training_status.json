@@ -1,0 +1,65 @@
+{
+    "My Behavior": {
+        "checkpoints": [
+            {
+                "steps": 3064,
+                "file_path": "results\\ppo\\My Behavior\\My Behavior-3064.onnx",
+                "reward": 0.0,
+                "creation_time": 1734083070.256262,
+                "auxillary_file_paths": [
+                    "results\\ppo\\My Behavior\\My Behavior-3064.pt"
+                ]
+            },
+            {
+                "steps": 6864,
+                "file_path": "results\\ppo\\My Behavior\\My Behavior-6864.onnx",
+                "reward": 0.0,
+                "creation_time": 1734083200.7312045,
+                "auxillary_file_paths": [
+                    "results\\ppo\\My Behavior\\My Behavior-6864.pt"
+                ]
+            },
+            {
+                "steps": 9128,
+                "file_path": "results\\ppo\\My Behavior\\My Behavior-9128.onnx",
+                "reward": 0.0,
+                "creation_time": 1734083537.3802674,
+                "auxillary_file_paths": [
+                    "results\\ppo\\My Behavior\\My Behavior-9128.pt"
+                ]
+            },
+            {
+                "steps": 15592,
+                "file_path": "results\\ppo\\My Behavior\\My Behavior-15592.onnx",
+                "reward": 0.0,
+                "creation_time": 1734083774.3204925,
+                "auxillary_file_paths": [
+                    "results\\ppo\\My Behavior\\My Behavior-15592.pt"
+                ]
+            },
+            {
+                "steps": 20192,
+                "file_path": "results\\ppo\\My Behavior\\My Behavior-20192.onnx",
+                "reward": 0.0,
+                "creation_time": 1734085315.3446229,
+                "auxillary_file_paths": [
+                    "results\\ppo\\My Behavior\\My Behavior-20192.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 20192,
+            "file_path": "results\\ppo\\My Behavior.onnx",
+            "reward": 0.0,
+            "creation_time": 1734085315.3446229,
+            "auxillary_file_paths": [
+                "results\\ppo\\My Behavior\\My Behavior-20192.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.2.2+cu121"
+    }
+}
