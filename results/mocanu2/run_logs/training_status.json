@@ -1,0 +1,38 @@
+{
+    "ComportamentRobot": {
+        "checkpoints": [
+            {
+                "steps": 499994,
+                "file_path": "results\\mocanu2\\ComportamentRobot\\ComportamentRobot-499994.onnx",
+                "reward": -0.6842105263157895,
+                "creation_time": 1734261034.141095,
+                "auxillary_file_paths": [
+                    "results\\mocanu2\\ComportamentRobot\\ComportamentRobot-499994.pt"
+                ]
+            },
+            {
+                "steps": 500058,
+                "file_path": "results\\mocanu2\\ComportamentRobot\\ComportamentRobot-500058.onnx",
+                "reward": -0.6842105263157895,
+                "creation_time": 1734261034.1968231,
+                "auxillary_file_paths": [
+                    "results\\mocanu2\\ComportamentRobot\\ComportamentRobot-500058.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 500058,
+            "file_path": "results\\mocanu2\\ComportamentRobot.onnx",
+            "reward": -0.6842105263157895,
+            "creation_time": 1734261034.1968231,
+            "auxillary_file_paths": [
+                "results\\mocanu2\\ComportamentRobot\\ComportamentRobot-500058.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.2.2+cu121"
+    }
+}

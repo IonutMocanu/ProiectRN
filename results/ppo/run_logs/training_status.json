@@ -2,58 +2,58 @@
     "My Behavior": {
         "checkpoints": [
             {
-                "steps": 3064,
-                "file_path": "results\\ppo\\My Behavior\\My Behavior-3064.onnx",
-                "reward": 0.0,
-                "creation_time": 1734083070.256262,
+                "steps": 103019,
+                "file_path": "results\\ppo\\My Behavior\\My Behavior-103019.onnx",
+                "reward": null,
+                "creation_time": 1734212559.7058187,
                 "auxillary_file_paths": [
-                    "results\\ppo\\My Behavior\\My Behavior-3064.pt"
+                    "results\\ppo\\My Behavior\\My Behavior-103019.pt"
                 ]
             },
             {
-                "steps": 6864,
-                "file_path": "results\\ppo\\My Behavior\\My Behavior-6864.onnx",
-                "reward": 0.0,
-                "creation_time": 1734083200.7312045,
+                "steps": 113269,
+                "file_path": "results\\ppo\\My Behavior\\My Behavior-113269.onnx",
+                "reward": null,
+                "creation_time": 1734212622.8788142,
                 "auxillary_file_paths": [
-                    "results\\ppo\\My Behavior\\My Behavior-6864.pt"
+                    "results\\ppo\\My Behavior\\My Behavior-113269.pt"
                 ]
             },
             {
-                "steps": 9128,
-                "file_path": "results\\ppo\\My Behavior\\My Behavior-9128.onnx",
-                "reward": 0.0,
-                "creation_time": 1734083537.3802674,
+                "steps": 124219,
+                "file_path": "results\\ppo\\My Behavior\\My Behavior-124219.onnx",
+                "reward": null,
+                "creation_time": 1734212670.4722736,
                 "auxillary_file_paths": [
-                    "results\\ppo\\My Behavior\\My Behavior-9128.pt"
+                    "results\\ppo\\My Behavior\\My Behavior-124219.pt"
                 ]
             },
             {
-                "steps": 15592,
-                "file_path": "results\\ppo\\My Behavior\\My Behavior-15592.onnx",
-                "reward": 0.0,
-                "creation_time": 1734083774.3204925,
+                "steps": 135235,
+                "file_path": "results\\ppo\\My Behavior\\My Behavior-135235.onnx",
+                "reward": null,
+                "creation_time": 1734213107.9720562,
                 "auxillary_file_paths": [
-                    "results\\ppo\\My Behavior\\My Behavior-15592.pt"
+                    "results\\ppo\\My Behavior\\My Behavior-135235.pt"
                 ]
             },
             {
-                "steps": 20192,
-                "file_path": "results\\ppo\\My Behavior\\My Behavior-20192.onnx",
-                "reward": 0.0,
-                "creation_time": 1734085315.3446229,
+                "steps": 146280,
+                "file_path": "results\\ppo\\My Behavior\\My Behavior-146280.onnx",
+                "reward": null,
+                "creation_time": 1734213156.7308068,
                 "auxillary_file_paths": [
-                    "results\\ppo\\My Behavior\\My Behavior-20192.pt"
+                    "results\\ppo\\My Behavior\\My Behavior-146280.pt"
                 ]
             }
         ],
         "final_checkpoint": {
-            "steps": 20192,
+            "steps": 146280,
             "file_path": "results\\ppo\\My Behavior.onnx",
-            "reward": 0.0,
-            "creation_time": 1734085315.3446229,
+            "reward": null,
+            "creation_time": 1734213156.7308068,
             "auxillary_file_paths": [
-                "results\\ppo\\My Behavior\\My Behavior-20192.pt"
+                "results\\ppo\\My Behavior\\My Behavior-146280.pt"
             ]
         }
     },
@@ -61,5 +61,36 @@
         "stats_format_version": "0.3.0",
         "mlagents_version": "1.1.0",
         "torch_version": "2.2.2+cu121"
+    },
+    "ComportamentRobot": {
+        "checkpoints": [
+            {
+                "steps": 0,
+                "file_path": "results\\ppo\\ComportamentRobot\\ComportamentRobot-0.onnx",
+                "reward": null,
+                "creation_time": 1734261316.0978012,
+                "auxillary_file_paths": [
+                    "results\\ppo\\ComportamentRobot\\ComportamentRobot-0.pt"
+                ]
+            },
+            {
+                "steps": 836435,
+                "file_path": "results\\ppo\\ComportamentRobot\\ComportamentRobot-836435.onnx",
+                "reward": -1.0,
+                "creation_time": 1734264606.3280482,
+                "auxillary_file_paths": [
+                    "results\\ppo\\ComportamentRobot\\ComportamentRobot-836435.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 836435,
+            "file_path": "results\\ppo\\ComportamentRobot.onnx",
+            "reward": -1.0,
+            "creation_time": 1734264606.3280482,
+            "auxillary_file_paths": [
+                "results\\ppo\\ComportamentRobot\\ComportamentRobot-836435.pt"
+            ]
+        }
     }
 }
